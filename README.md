@@ -1,5 +1,7 @@
 # MSU_graph_C
 
+The project implements struct Graph and a library with functions to work with the graph.
+
  ABOUT THE GRAPH 
  =====================
 
